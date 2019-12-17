@@ -1,0 +1,3 @@
+1-Yeni bir c projesi oluþturun.
+2-Source dosyalarýndaki kodlarý çift týklayarak açýnýz.
+3-Kodlarý kopyalaýp kendi projenize yapýþtýrýp çalýþtýrýnýz veya bakarak kendi projenize yazýnýz. 
