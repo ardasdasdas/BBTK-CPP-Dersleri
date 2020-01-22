@@ -1,0 +1,15 @@
+SORU 1:
+Bir çiftlikte tavşan sayısı -> 38
+	      kuş sayısı    -> 102
+Her sene tavşan sayısındaki artış oranı -> 0.085
+Her sene kuş sayısındaki artış oranı 	-> 0.077
+Kaç yıl sonra tavşan sayısı, kuş sayısını geçer? (Cevap: 134)
+
+SORU 2:
+Girilen Sayı -> 5862
+
+Çıktı:
+*****
+********
+******
+**
