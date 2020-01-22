@@ -13,3 +13,11 @@ Girilen Sayı -> 5862
 ********
 ******
 **
+
+SORU 3:
+İç içe döngü kullanarak yıldızlarla elmas şekli oluştur.
+	*
+       ***
+      *****
+       ***
+        *
