@@ -11,7 +11,7 @@ adına temel seviyeden başlayarak kodlama eğitimleri düzenlemekteyiz.
 2019-2020 Dönemi Başkan Yardımcısı Muzaffer Arda Uslu
 
 # BBTK-CPP-Lessons
-## Computer and Information Technology Club Examples in C ++ Classes
+## Computer and Information Technology Club Examples in C++ Classes
 
 We have been actively working since 2000, depending on Eskişehir Osmangazi University Faculty of Engineering and Architecture. We strive to provide the necessary information and resources to all students who are interested in computer, software and information technologies, and to meet people who will guide. http://bbtk.ogu.edu.tr/
 
